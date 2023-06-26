@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Karen ![image](https://github.com/karencardoz/karencardoz/assets/92551451/6d9d3516-821b-4992-80ab-7e27e9ddf8c1)
+### Hi there 👋 I'm Karen 
 
 
 
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on React Projects and open for freelance and hiring for an amazing opportunity
 - 🤔 I’m looking for help with feedback on my code
-- 📫 How to reach me: karen.cardoz19@gmail.com or 
+- 📫 How to reach me: karen.cardoz19@gmail.com or  ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: plant mom
 
