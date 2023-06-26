@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Karen 
 
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+<a href="https://www.linkedin.com/in/karencardoz/"><img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}"/></a>
 
 - 🔭 A Business and Quality Analyst transitioning to a React Developer.
 - 🌱 I’m currently learning React.js
