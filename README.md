@@ -12,3 +12,12 @@
 - 📫 How to reach me: karen.cardoz19@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: plant mom
+
+<br/>
+<p align="center" dir="auto">
+  <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karencardoz&theme=dark" style="max-width: 100%;">
+  </a>&nbsp
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karencardoz&theme=dark" style="max-width: 100%;">
+  </a>
+  
+</p>
