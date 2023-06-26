@@ -8,3 +8,5 @@
 - 📫 How to reach me: karen.cardoz19@gmail.com or https://www.linkedin.com/in/karencardoz/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: plant mom
+
+https://github-readme-stats.vercel.app/api?username=karencardoz&show_icons=true&theme=radical
