@@ -16,7 +16,7 @@
 <br/>
 <p align="center" dir="auto">
   <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karencardoz&theme=dark" style="max-width: 100%;">
-  </a>&nbsp
+  </a>&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karencardoz&theme=dark" style="max-width: 100%;">
   </a>
   
