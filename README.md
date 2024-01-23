@@ -5,10 +5,10 @@
   </a>
 </p>
 <ul> 
-<li> 👯 I’m looking to collaborate on React, Angular Projects</li> 
-<li>   🤔 I’m looking for help with feedback on my code</li> 
-<li>  📫 How to reach me: karen.cardoz19@gmail.com</li> 
-<li>   😄 Pronouns: she/her</li> 
-<li>  ⚡ Fun fact: plant mom</li> 
+<li> I’m looking to collaborate on React Projects</li> 
+<li> Loking for help with feedback on my code </li> 
+<li> 📫 How to reach me: karen.cardoz19@gmail.com</li> 
+<li> Pronouns: she/her</li> 
+<li> ⚡ Fun fact: plant mom</li> 
 </ul>
 </p>
