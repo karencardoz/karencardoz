@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Karen 
 <p align="left" dir="auto">
 <ul> 
-<li> I’m looking to collaborate on React Projects</li> 
+<li> I’m looking to collaborate on Projects</li> 
 <li> Looking for help with feedback on my code </li> 
 <li> 📫 How to reach me: karen.cardoz19@gmail.com</li> 
 <li> Pronouns: she/her</li> 
